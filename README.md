@@ -4,6 +4,8 @@ Testik Testirovsky
   using namespace std;
   void main()
   {
-  setlocale(LC_ALL, "ru");
-  cout<<"Здарова!"<<endl;
+  setlocale (LC_ALL, "ru");
+  cout << "Здарова! " <<endl;
+  
+  cout << "Hello World!" << endl;
   }
