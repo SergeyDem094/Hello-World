@@ -8,4 +8,6 @@ Testik Testirovsky
   cout << "Здарова! " <<endl;
   
   cout << "Hello World!" << endl;
+  
+  cout << "Hallo die Welt!" << endl;
   }
